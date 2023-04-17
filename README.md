@@ -1,5 +1,3 @@
-Sure, here's an example README file you can use for your code:
-
 # Medical Cost Personal Dataset Regression
 
 This is a Python implementation of regression models on the [Medical Cost Personal Dataset](https://www.kaggle.com/mirichoi0218/insurance) using scikit-learn and statsmodels.
