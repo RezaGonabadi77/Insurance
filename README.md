@@ -45,4 +45,4 @@ This code is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgements
 
-This code was created by [Your Name]. The Medical Cost Personal Dataset was obtained from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance).
+This code was created by Reza Gonabadi. The Medical Cost Personal Dataset was obtained from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance).
